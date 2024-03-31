@@ -16,7 +16,7 @@ pip install -r requirement.txt
 ```
 Then you can simply run the project using the following command:
 ```
-python assingn01.py
+python assingn02.py
 ```
 
 As a quick starter pack, a [notebook]([https://colab.research.google.com/drive/1NyCn4j8OtPQsmAMty41PN6Na9l6T9q4t](https://colab.research.google.com/drive/1JvCMAtlB4PUl-9dM4RexCVruyTwyYm3m#scrollTo=4kXGnvbvxn_I)) is considered with the running example and parameters.
