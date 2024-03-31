@@ -19,5 +19,5 @@ Then you can simply run the project using the following command:
 python assingn02.py
 ```
 
-As a quick starter pack, a [notebook]([https://colab.research.google.com/drive/1NyCn4j8OtPQsmAMty41PN6Na9l6T9q4t](https://colab.research.google.com/drive/1JvCMAtlB4PUl-9dM4RexCVruyTwyYm3m#scrollTo=4kXGnvbvxn_I)) is considered with the running example and parameters.
+As a quick starter pack, a [notebook](https://colab.research.google.com/drive/1JvCMAtlB4PUl-9dM4RexCVruyTwyYm3m#scrollTo=4kXGnvbvxn_I) is considered with the running example and parameters.
 The provided link contains code that selects 500 random samples from two corpora and runs the project for two window sizes and two vector sizes. It's important to note that due to the randomness of the sample selection and the limited configurations, the results obtained from running the code may differ from the original ones provided in the report. This implementation serves as a demonstration or running sample of the code rather than a replication of the exact experiment described in the report.
